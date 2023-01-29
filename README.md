@@ -1,2 +1,2 @@
 # Praticando-PHP
- Exercício de PHP para iniciante 
+ Projetos em PHP - Nível básico para praticar lógica de programação.
